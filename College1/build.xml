@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<project name="wsp2" default="full-suite" basedir=".">
+<project name="College1" default="full-suite" basedir=".">
 
     <!-- GLOBAL VARIABLES -->
     <property name="source" value="app" />
